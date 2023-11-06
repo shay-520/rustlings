@@ -6,5 +6,5 @@ If you used the installation script for Rustlings, Clippy should be already inst
 If not you can install it manually via `rustup component add clippy`.
 
 ## Further information
-
+=
 - [GitHub Repository](https://github.com/rust-lang/rust-clippy).
